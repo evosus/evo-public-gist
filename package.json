@@ -1,0 +1,24 @@
+{
+  "name": "evo-public-gist",
+  "version": "1.0.0",
+  "description": "Public Code Examples of Evosus Web APIs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evosus/evo-public-gist.git"
+  },
+  "keywords": [
+    "Evosus",
+    "Gist",
+    "Code",
+    "Snippets",
+    "Web",
+    "API",
+    "Access"
+  ],
+  "author": "Desmond G. Jones - Evosus, Inc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evosus/evo-public-gist/issues"
+  },
+  "homepage": "https://github.com/evosus/evo-public-gist#readme"
+}
